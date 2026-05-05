@@ -1,6 +1,6 @@
 {
   "name": "clean-my-keyboard",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Lock your keyboard while you wipe it down",
   "type": "module",
   "scripts": {
